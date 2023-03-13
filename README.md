@@ -1,4 +1,4 @@
-<h1 align="center"> Vaidando Faces usando Amazon Lambda e Python </h1>
+<h1 align="center"> Validando Faces usando Amazon Lambda e Python </h1>
 
 
 <h4 align="center"> Funcionalidades e Demonstração da Aplicação  </h4>
